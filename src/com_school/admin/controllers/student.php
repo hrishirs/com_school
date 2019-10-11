@@ -15,7 +15,7 @@ jimport('joomla.application.component.controllerform');
 /**
  * Student controller class.
  *
- * @since  1.6
+ * @since  1.0
  */
 class SchoolControllerStudent extends \Joomla\CMS\MVC\Controller\FormController
 {
